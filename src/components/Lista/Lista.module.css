@@ -1,6 +1,6 @@
 .card{
     font-family: 'Oswald', sans-serif;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #000;
     height: 6rem;
     display: flex;
     align-items: center;
